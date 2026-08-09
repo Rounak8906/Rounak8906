@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rounaksingh8906@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-00CFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
@@ -224,7 +224,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rounaksingh8906@gamil.com">
 <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
