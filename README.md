@@ -137,7 +137,7 @@ Currently Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rounak8906&show_icons=true&theme=transparent&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_color=00F5FF"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Rounak8906&show_icons=true&theme=transparent&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_color=00F5FF"/>
 
 </div>
 
