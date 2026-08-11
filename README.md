@@ -145,7 +145,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rounak8906&background=0D1117,001F3F,45&border=00F5FF&border_radius=12&hide_border=false&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img src="https://streak-stats.demolab.com?user=Rounak8906&background=45,0D1117,001F3F&border=00F5FF&border_radius=12&hide_border=false&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 
 </div>
 
