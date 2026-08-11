@@ -137,7 +137,7 @@ Currently Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Rounak8906&show_icons=true&theme=transparent&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_color=00F5FF"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Rounak8906&show_icons=true&hide=prs,issues,contribs&theme=transparent&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_color=00F5FF"/>
 
 </div>
 
@@ -227,3 +227,4 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00F5FF,100:007CF0"/>
 
 </div>
+
