@@ -227,4 +227,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00F5FF,100:007CF0"/>
 
 </div>
-
